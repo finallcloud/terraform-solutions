@@ -1,6 +1,4 @@
-# terraform-solutions
-Terraform based solutions
-
+# Terraform based solutions
 
 All-Popular-Cloud solutions
 
